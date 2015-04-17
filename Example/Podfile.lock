@@ -1,0 +1,14 @@
+PODS:
+  - RKCategories (0.1.0)
+
+DEPENDENCIES:
+  - RKCategories (from `../`)
+
+EXTERNAL SOURCES:
+  RKCategories:
+    :path: ../
+
+SPEC CHECKSUMS:
+  RKCategories: e5bc77a9b0c9409dffb47112c7207eb619721677
+
+COCOAPODS: 0.36.0
