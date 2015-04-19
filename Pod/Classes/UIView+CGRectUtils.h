@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "CGRectUtils.h"
+@import UIKit;
 
 @interface UIView (CGRectUtils)
 

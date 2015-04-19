@@ -8,17 +8,17 @@
 
 /* Begin PBXBuildFile section */
 		27A1A0CA4D6E74496C1CAAFB /* Pods-RKCategories-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 934C7516047754AA7FF0543F /* Pods-RKCategories-dummy.m */; };
-		4AE226D61AE181730063283F /* NSArray+Duplicates.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AE226C71AE181730063283F /* NSArray+Duplicates.m */; };
-		4AE226D71AE181730063283F /* NSArray+Random.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AE226C91AE181730063283F /* NSArray+Random.m */; };
-		4AE226D81AE181730063283F /* NSArray+Safe.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AE226CB1AE181730063283F /* NSArray+Safe.m */; };
-		4AE226D91AE181730063283F /* NSDate+RK.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AE226CD1AE181730063283F /* NSDate+RK.m */; };
-		4AE226DA1AE181730063283F /* NSManagedObjectContext+Fetching.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AE226CF1AE181730063283F /* NSManagedObjectContext+Fetching.m */; };
-		4AE226DB1AE181730063283F /* NSMutableArray+Insertion.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AE226D11AE181730063283F /* NSMutableArray+Insertion.m */; };
-		4AE226DC1AE181730063283F /* UILabel+Extras.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AE226D31AE181730063283F /* UILabel+Extras.m */; };
-		4AE226DD1AE181730063283F /* UIView+Snapshot.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AE226D51AE181730063283F /* UIView+Snapshot.m */; };
-		4AE226E01AE181CE0063283F /* NSMutableAttributedString+Attributes.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AE226DF1AE181CE0063283F /* NSMutableAttributedString+Attributes.m */; };
-		4AE226E31AE184580063283F /* UIScrollView+Pages.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AE226E21AE184580063283F /* UIScrollView+Pages.m */; };
-		4AE226E61AE1852E0063283F /* UIView+CGRectUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AE226E51AE1852E0063283F /* UIView+CGRectUtils.m */; };
+		4AADDE541AE42FE900909543 /* NSArray+Duplicates.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AADDE3F1AE42FE900909543 /* NSArray+Duplicates.m */; };
+		4AADDE551AE42FE900909543 /* NSArray+Random.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AADDE411AE42FE900909543 /* NSArray+Random.m */; };
+		4AADDE561AE42FE900909543 /* NSArray+Safe.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AADDE431AE42FE900909543 /* NSArray+Safe.m */; };
+		4AADDE571AE42FE900909543 /* NSDate+RK.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AADDE451AE42FE900909543 /* NSDate+RK.m */; };
+		4AADDE581AE42FE900909543 /* NSManagedObjectContext+Fetching.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AADDE471AE42FE900909543 /* NSManagedObjectContext+Fetching.m */; };
+		4AADDE591AE42FE900909543 /* NSMutableArray+Insertion.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AADDE491AE42FE900909543 /* NSMutableArray+Insertion.m */; };
+		4AADDE5A1AE42FE900909543 /* NSMutableAttributedString+Attributes.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AADDE4B1AE42FE900909543 /* NSMutableAttributedString+Attributes.m */; };
+		4AADDE5B1AE42FE900909543 /* UILabel+Extras.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AADDE4D1AE42FE900909543 /* UILabel+Extras.m */; };
+		4AADDE5C1AE42FE900909543 /* UIScrollView+Pages.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AADDE4F1AE42FE900909543 /* UIScrollView+Pages.m */; };
+		4AADDE5D1AE42FE900909543 /* UIView+CGRectUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AADDE511AE42FE900909543 /* UIView+CGRectUtils.m */; };
+		4AADDE5E1AE42FE900909543 /* UIView+Snapshot.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AADDE531AE42FE900909543 /* UIView+Snapshot.m */; };
 		5F31A03C59B245C76B35B433 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9692AA12F4E28842510F88B5 /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
@@ -34,28 +34,28 @@
 
 /* Begin PBXFileReference section */
 		03FA10B62A274D79D1918120 /* Pods-RKCategories-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-RKCategories-resources.sh"; sourceTree = "<group>"; };
-		4AE226C61AE181730063283F /* NSArray+Duplicates.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+Duplicates.h"; sourceTree = "<group>"; };
-		4AE226C71AE181730063283F /* NSArray+Duplicates.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+Duplicates.m"; sourceTree = "<group>"; };
-		4AE226C81AE181730063283F /* NSArray+Random.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+Random.h"; sourceTree = "<group>"; };
-		4AE226C91AE181730063283F /* NSArray+Random.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+Random.m"; sourceTree = "<group>"; };
-		4AE226CA1AE181730063283F /* NSArray+Safe.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+Safe.h"; sourceTree = "<group>"; };
-		4AE226CB1AE181730063283F /* NSArray+Safe.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+Safe.m"; sourceTree = "<group>"; };
-		4AE226CC1AE181730063283F /* NSDate+RK.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDate+RK.h"; sourceTree = "<group>"; };
-		4AE226CD1AE181730063283F /* NSDate+RK.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDate+RK.m"; sourceTree = "<group>"; };
-		4AE226CE1AE181730063283F /* NSManagedObjectContext+Fetching.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSManagedObjectContext+Fetching.h"; sourceTree = "<group>"; };
-		4AE226CF1AE181730063283F /* NSManagedObjectContext+Fetching.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSManagedObjectContext+Fetching.m"; sourceTree = "<group>"; };
-		4AE226D01AE181730063283F /* NSMutableArray+Insertion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSMutableArray+Insertion.h"; sourceTree = "<group>"; };
-		4AE226D11AE181730063283F /* NSMutableArray+Insertion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSMutableArray+Insertion.m"; sourceTree = "<group>"; };
-		4AE226D21AE181730063283F /* UILabel+Extras.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UILabel+Extras.h"; sourceTree = "<group>"; };
-		4AE226D31AE181730063283F /* UILabel+Extras.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UILabel+Extras.m"; sourceTree = "<group>"; };
-		4AE226D41AE181730063283F /* UIView+Snapshot.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Snapshot.h"; sourceTree = "<group>"; };
-		4AE226D51AE181730063283F /* UIView+Snapshot.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Snapshot.m"; sourceTree = "<group>"; };
-		4AE226DE1AE181CE0063283F /* NSMutableAttributedString+Attributes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSMutableAttributedString+Attributes.h"; sourceTree = "<group>"; };
-		4AE226DF1AE181CE0063283F /* NSMutableAttributedString+Attributes.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSMutableAttributedString+Attributes.m"; sourceTree = "<group>"; };
-		4AE226E11AE184580063283F /* UIScrollView+Pages.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIScrollView+Pages.h"; sourceTree = "<group>"; };
-		4AE226E21AE184580063283F /* UIScrollView+Pages.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIScrollView+Pages.m"; sourceTree = "<group>"; };
-		4AE226E41AE1852E0063283F /* UIView+CGRectUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+CGRectUtils.h"; sourceTree = "<group>"; };
-		4AE226E51AE1852E0063283F /* UIView+CGRectUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+CGRectUtils.m"; sourceTree = "<group>"; };
+		4AADDE3E1AE42FE900909543 /* NSArray+Duplicates.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSArray+Duplicates.h"; path = "Pod/Classes/NSArray+Duplicates.h"; sourceTree = "<group>"; };
+		4AADDE3F1AE42FE900909543 /* NSArray+Duplicates.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSArray+Duplicates.m"; path = "Pod/Classes/NSArray+Duplicates.m"; sourceTree = "<group>"; };
+		4AADDE401AE42FE900909543 /* NSArray+Random.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSArray+Random.h"; path = "Pod/Classes/NSArray+Random.h"; sourceTree = "<group>"; };
+		4AADDE411AE42FE900909543 /* NSArray+Random.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSArray+Random.m"; path = "Pod/Classes/NSArray+Random.m"; sourceTree = "<group>"; };
+		4AADDE421AE42FE900909543 /* NSArray+Safe.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSArray+Safe.h"; path = "Pod/Classes/NSArray+Safe.h"; sourceTree = "<group>"; };
+		4AADDE431AE42FE900909543 /* NSArray+Safe.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSArray+Safe.m"; path = "Pod/Classes/NSArray+Safe.m"; sourceTree = "<group>"; };
+		4AADDE441AE42FE900909543 /* NSDate+RK.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSDate+RK.h"; path = "Pod/Classes/NSDate+RK.h"; sourceTree = "<group>"; };
+		4AADDE451AE42FE900909543 /* NSDate+RK.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSDate+RK.m"; path = "Pod/Classes/NSDate+RK.m"; sourceTree = "<group>"; };
+		4AADDE461AE42FE900909543 /* NSManagedObjectContext+Fetching.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSManagedObjectContext+Fetching.h"; path = "Pod/Classes/NSManagedObjectContext+Fetching.h"; sourceTree = "<group>"; };
+		4AADDE471AE42FE900909543 /* NSManagedObjectContext+Fetching.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSManagedObjectContext+Fetching.m"; path = "Pod/Classes/NSManagedObjectContext+Fetching.m"; sourceTree = "<group>"; };
+		4AADDE481AE42FE900909543 /* NSMutableArray+Insertion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSMutableArray+Insertion.h"; path = "Pod/Classes/NSMutableArray+Insertion.h"; sourceTree = "<group>"; };
+		4AADDE491AE42FE900909543 /* NSMutableArray+Insertion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSMutableArray+Insertion.m"; path = "Pod/Classes/NSMutableArray+Insertion.m"; sourceTree = "<group>"; };
+		4AADDE4A1AE42FE900909543 /* NSMutableAttributedString+Attributes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSMutableAttributedString+Attributes.h"; path = "Pod/Classes/NSMutableAttributedString+Attributes.h"; sourceTree = "<group>"; };
+		4AADDE4B1AE42FE900909543 /* NSMutableAttributedString+Attributes.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSMutableAttributedString+Attributes.m"; path = "Pod/Classes/NSMutableAttributedString+Attributes.m"; sourceTree = "<group>"; };
+		4AADDE4C1AE42FE900909543 /* UILabel+Extras.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UILabel+Extras.h"; path = "Pod/Classes/UILabel+Extras.h"; sourceTree = "<group>"; };
+		4AADDE4D1AE42FE900909543 /* UILabel+Extras.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UILabel+Extras.m"; path = "Pod/Classes/UILabel+Extras.m"; sourceTree = "<group>"; };
+		4AADDE4E1AE42FE900909543 /* UIScrollView+Pages.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIScrollView+Pages.h"; path = "Pod/Classes/UIScrollView+Pages.h"; sourceTree = "<group>"; };
+		4AADDE4F1AE42FE900909543 /* UIScrollView+Pages.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIScrollView+Pages.m"; path = "Pod/Classes/UIScrollView+Pages.m"; sourceTree = "<group>"; };
+		4AADDE501AE42FE900909543 /* UIView+CGRectUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIView+CGRectUtils.h"; path = "Pod/Classes/UIView+CGRectUtils.h"; sourceTree = "<group>"; };
+		4AADDE511AE42FE900909543 /* UIView+CGRectUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIView+CGRectUtils.m"; path = "Pod/Classes/UIView+CGRectUtils.m"; sourceTree = "<group>"; };
+		4AADDE521AE42FE900909543 /* UIView+Snapshot.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIView+Snapshot.h"; path = "Pod/Classes/UIView+Snapshot.h"; sourceTree = "<group>"; };
+		4AADDE531AE42FE900909543 /* UIView+Snapshot.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIView+Snapshot.m"; path = "Pod/Classes/UIView+Snapshot.m"; sourceTree = "<group>"; };
 		671F772420FACF5BD5334463 /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		6773345A9A7DA9FB7BF80FCF /* Pods-RKCategories-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-RKCategories-acknowledgements.markdown"; sourceTree = "<group>"; };
 		7E1D4CD370AE4846AF29F85D /* Pods-RKCategories-environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-RKCategories-environment.h"; sourceTree = "<group>"; };
@@ -157,28 +157,28 @@
 		DF5CE3B418991A0C06626058 /* RKCategories */ = {
 			isa = PBXGroup;
 			children = (
-				4AE226E41AE1852E0063283F /* UIView+CGRectUtils.h */,
-				4AE226E51AE1852E0063283F /* UIView+CGRectUtils.m */,
-				4AE226E11AE184580063283F /* UIScrollView+Pages.h */,
-				4AE226E21AE184580063283F /* UIScrollView+Pages.m */,
-				4AE226DE1AE181CE0063283F /* NSMutableAttributedString+Attributes.h */,
-				4AE226DF1AE181CE0063283F /* NSMutableAttributedString+Attributes.m */,
-				4AE226C61AE181730063283F /* NSArray+Duplicates.h */,
-				4AE226C71AE181730063283F /* NSArray+Duplicates.m */,
-				4AE226C81AE181730063283F /* NSArray+Random.h */,
-				4AE226C91AE181730063283F /* NSArray+Random.m */,
-				4AE226CA1AE181730063283F /* NSArray+Safe.h */,
-				4AE226CB1AE181730063283F /* NSArray+Safe.m */,
-				4AE226CC1AE181730063283F /* NSDate+RK.h */,
-				4AE226CD1AE181730063283F /* NSDate+RK.m */,
-				4AE226CE1AE181730063283F /* NSManagedObjectContext+Fetching.h */,
-				4AE226CF1AE181730063283F /* NSManagedObjectContext+Fetching.m */,
-				4AE226D01AE181730063283F /* NSMutableArray+Insertion.h */,
-				4AE226D11AE181730063283F /* NSMutableArray+Insertion.m */,
-				4AE226D21AE181730063283F /* UILabel+Extras.h */,
-				4AE226D31AE181730063283F /* UILabel+Extras.m */,
-				4AE226D41AE181730063283F /* UIView+Snapshot.h */,
-				4AE226D51AE181730063283F /* UIView+Snapshot.m */,
+				4AADDE3E1AE42FE900909543 /* NSArray+Duplicates.h */,
+				4AADDE3F1AE42FE900909543 /* NSArray+Duplicates.m */,
+				4AADDE401AE42FE900909543 /* NSArray+Random.h */,
+				4AADDE411AE42FE900909543 /* NSArray+Random.m */,
+				4AADDE421AE42FE900909543 /* NSArray+Safe.h */,
+				4AADDE431AE42FE900909543 /* NSArray+Safe.m */,
+				4AADDE441AE42FE900909543 /* NSDate+RK.h */,
+				4AADDE451AE42FE900909543 /* NSDate+RK.m */,
+				4AADDE461AE42FE900909543 /* NSManagedObjectContext+Fetching.h */,
+				4AADDE471AE42FE900909543 /* NSManagedObjectContext+Fetching.m */,
+				4AADDE481AE42FE900909543 /* NSMutableArray+Insertion.h */,
+				4AADDE491AE42FE900909543 /* NSMutableArray+Insertion.m */,
+				4AADDE4A1AE42FE900909543 /* NSMutableAttributedString+Attributes.h */,
+				4AADDE4B1AE42FE900909543 /* NSMutableAttributedString+Attributes.m */,
+				4AADDE4C1AE42FE900909543 /* UILabel+Extras.h */,
+				4AADDE4D1AE42FE900909543 /* UILabel+Extras.m */,
+				4AADDE4E1AE42FE900909543 /* UIScrollView+Pages.h */,
+				4AADDE4F1AE42FE900909543 /* UIScrollView+Pages.m */,
+				4AADDE501AE42FE900909543 /* UIView+CGRectUtils.h */,
+				4AADDE511AE42FE900909543 /* UIView+CGRectUtils.m */,
+				4AADDE521AE42FE900909543 /* UIView+Snapshot.h */,
+				4AADDE531AE42FE900909543 /* UIView+Snapshot.m */,
 			);
 			name = RKCategories;
 			path = ../..;
@@ -269,18 +269,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4AE226D91AE181730063283F /* NSDate+RK.m in Sources */,
-				4AE226D71AE181730063283F /* NSArray+Random.m in Sources */,
-				4AE226E31AE184580063283F /* UIScrollView+Pages.m in Sources */,
-				4AE226D61AE181730063283F /* NSArray+Duplicates.m in Sources */,
-				4AE226E61AE1852E0063283F /* UIView+CGRectUtils.m in Sources */,
-				4AE226DD1AE181730063283F /* UIView+Snapshot.m in Sources */,
-				4AE226DC1AE181730063283F /* UILabel+Extras.m in Sources */,
-				4AE226E01AE181CE0063283F /* NSMutableAttributedString+Attributes.m in Sources */,
+				4AADDE5E1AE42FE900909543 /* UIView+Snapshot.m in Sources */,
+				4AADDE571AE42FE900909543 /* NSDate+RK.m in Sources */,
+				4AADDE551AE42FE900909543 /* NSArray+Random.m in Sources */,
+				4AADDE541AE42FE900909543 /* NSArray+Duplicates.m in Sources */,
 				27A1A0CA4D6E74496C1CAAFB /* Pods-RKCategories-dummy.m in Sources */,
-				4AE226D81AE181730063283F /* NSArray+Safe.m in Sources */,
-				4AE226DA1AE181730063283F /* NSManagedObjectContext+Fetching.m in Sources */,
-				4AE226DB1AE181730063283F /* NSMutableArray+Insertion.m in Sources */,
+				4AADDE561AE42FE900909543 /* NSArray+Safe.m in Sources */,
+				4AADDE5A1AE42FE900909543 /* NSMutableAttributedString+Attributes.m in Sources */,
+				4AADDE581AE42FE900909543 /* NSManagedObjectContext+Fetching.m in Sources */,
+				4AADDE591AE42FE900909543 /* NSMutableArray+Insertion.m in Sources */,
+				4AADDE5D1AE42FE900909543 /* UIView+CGRectUtils.m in Sources */,
+				4AADDE5C1AE42FE900909543 /* UIScrollView+Pages.m in Sources */,
+				4AADDE5B1AE42FE900909543 /* UILabel+Extras.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
