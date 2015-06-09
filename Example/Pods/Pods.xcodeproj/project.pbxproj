@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		27A1A0CA4D6E74496C1CAAFB /* Pods-RKCategories-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 934C7516047754AA7FF0543F /* Pods-RKCategories-dummy.m */; };
+		2B88FB3C1B2795C600E765E1 /* UIColor+Random.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B88FB3B1B2795C600E765E1 /* UIColor+Random.m */; };
+		2B88FB3F1B27962300E765E1 /* UICollectionView+Selection.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B88FB3E1B27962300E765E1 /* UICollectionView+Selection.m */; };
 		4AADDE541AE42FE900909543 /* NSArray+Duplicates.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AADDE3F1AE42FE900909543 /* NSArray+Duplicates.m */; };
 		4AADDE551AE42FE900909543 /* NSArray+Random.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AADDE411AE42FE900909543 /* NSArray+Random.m */; };
 		4AADDE561AE42FE900909543 /* NSArray+Safe.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AADDE431AE42FE900909543 /* NSArray+Safe.m */; };
@@ -34,6 +36,10 @@
 
 /* Begin PBXFileReference section */
 		03FA10B62A274D79D1918120 /* Pods-RKCategories-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-RKCategories-resources.sh"; sourceTree = "<group>"; };
+		2B88FB3A1B2795C600E765E1 /* UIColor+Random.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+Random.h"; sourceTree = "<group>"; };
+		2B88FB3B1B2795C600E765E1 /* UIColor+Random.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+Random.m"; sourceTree = "<group>"; };
+		2B88FB3D1B27962300E765E1 /* UICollectionView+Selection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UICollectionView+Selection.h"; sourceTree = "<group>"; };
+		2B88FB3E1B27962300E765E1 /* UICollectionView+Selection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UICollectionView+Selection.m"; sourceTree = "<group>"; };
 		4AADDE3E1AE42FE900909543 /* NSArray+Duplicates.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSArray+Duplicates.h"; path = "Pod/Classes/NSArray+Duplicates.h"; sourceTree = "<group>"; };
 		4AADDE3F1AE42FE900909543 /* NSArray+Duplicates.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSArray+Duplicates.m"; path = "Pod/Classes/NSArray+Duplicates.m"; sourceTree = "<group>"; };
 		4AADDE401AE42FE900909543 /* NSArray+Random.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSArray+Random.h"; path = "Pod/Classes/NSArray+Random.h"; sourceTree = "<group>"; };
@@ -179,6 +185,10 @@
 				4AADDE511AE42FE900909543 /* UIView+CGRectUtils.m */,
 				4AADDE521AE42FE900909543 /* UIView+Snapshot.h */,
 				4AADDE531AE42FE900909543 /* UIView+Snapshot.m */,
+				2B88FB3D1B27962300E765E1 /* UICollectionView+Selection.h */,
+				2B88FB3E1B27962300E765E1 /* UICollectionView+Selection.m */,
+				2B88FB3A1B2795C600E765E1 /* UIColor+Random.h */,
+				2B88FB3B1B2795C600E765E1 /* UIColor+Random.m */,
 			);
 			name = RKCategories;
 			path = ../..;
@@ -270,7 +280,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				4AADDE5E1AE42FE900909543 /* UIView+Snapshot.m in Sources */,
+				2B88FB3C1B2795C600E765E1 /* UIColor+Random.m in Sources */,
 				4AADDE571AE42FE900909543 /* NSDate+RK.m in Sources */,
+				2B88FB3F1B27962300E765E1 /* UICollectionView+Selection.m in Sources */,
 				4AADDE551AE42FE900909543 /* NSArray+Random.m in Sources */,
 				4AADDE541AE42FE900909543 /* NSArray+Duplicates.m in Sources */,
 				27A1A0CA4D6E74496C1CAAFB /* Pods-RKCategories-dummy.m in Sources */,
