@@ -8,8 +8,8 @@
 
 #import <Foundation/Foundation.h>
 
-@interface NSArray (Safe)
+@interface NSArray (RKSafe)
 
 - (NSArray *)safeSubArrayWithRange:(NSRange)range;
-- (id)safeObjectAtIndex:(NSUInteger)index;
+- (id)rk_safeObjectAtIndex:(NSUInteger)index;
 @end

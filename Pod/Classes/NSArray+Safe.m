@@ -8,7 +8,7 @@
 
 #import "NSArray+Safe.h"
 
-@implementation NSArray (Safe)
+@implementation NSArray (RKSafe)
 
 - (NSArray *)safeSubArrayWithRange:(NSRange)range
 {
@@ -19,7 +19,7 @@
     return [self subarrayWithRange:range];
 }
 
-- (id)safeObjectAtIndex:(NSUInteger)index
+- (id)rk_safeObjectAtIndex:(NSUInteger)index
 {
     if (index >= self.count) {
         return nil;
